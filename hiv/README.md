@@ -37,13 +37,13 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - 2019-06: Mayer C, Data Dictionaries of HIV registries, Mobilizing Computable Biomedical Knowledge 2019; link: https://github.com/lhncbc/CDE/tree/master/hiv/registries 
 
-- 2019-08: Huser V, Mayer C, Williams N, Gold S, Fung KW, Set of derived metadata elements for comparing cohorts from human clinical trials datasets and EHR. OHDSI Symposium 2019, link: https://github.com/lhncbc/CDE/tree/master/scyros
+- 2019-08: Huser V, Mayer C,  Gold S, Fung KW, Set of derived metadata elements for comparing cohorts from human clinical trials datasets and EHR. OHDSI Symposium 2019, link: https://github.com/lhncbc/CDE/tree/master/scyros
 
 - 2019-08: Mayer C, Williams N, Gold S, Fung KW, Huser V, Validation of Real World Data: Case study in hepatitis C. OHDSI Symposium 2019.
 
-- 2019-08: O3
+- 2019-08:  Williams N, Huser V, Mayer C, Gold S, Fung KW, Case Studies Beware! RX and Labs return minor improvements in HIV prevalence capture for Medicare Parts D and B for 2012 to 2016 OHDSI Symposium 2019.
 
 - 2019-11: Mayer C, Williams N, Gold S, Fung KW, Huser V, Sharing of Individual Participant Data from Clinical Trials: General Comparison and HIV Use Case. (full paper) AMIA Annual Symposium, 2019, link: https://github.com/lhncbc/r-snippets-bmi/tree/master/CTG/sharing 
 
-- 2019-11: Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
+- 2019-11: Williams N, Huser V, Mayer C,Fung KW, Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
 
