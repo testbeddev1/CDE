@@ -45,7 +45,8 @@ also see files for some of them in https://github.com/lhncbc/CDE/tree/master/hiv
 
 - 2019-11: Mayer C, Williams N, Gold S, Fung KW, Huser V, Sharing of Individual Participant Data from Clinical Trials: General Comparison and HIV Use Case. (full paper) AMIA Annual Symposium, 2019, link: https://github.com/lhncbc/r-snippets-bmi/tree/master/CTG/sharing 
 
-- 2019-11: Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
+- 2019-11: Nick D. Williams, Ph.D, Craig S. Mayer, MS, Sigfried Gold, MFA, MA,
+Vojtech Huser, MD, PhD, Kin Wah Fung, MD Automated Discovery of Common Data Elements in HIV Clinical Trials Using an Interaction Network. AMIA Annual Symposium, 2019
 
 ## Training materials
 
